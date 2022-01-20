@@ -1,4 +1,4 @@
 # chem_code
 For studying
 
-I love :cake: , :camera_flash:
+:cake:  :camera_flash: :pencil: :computer: :computer_mouse:
